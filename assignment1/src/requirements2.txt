@@ -1,0 +1,4 @@
+futures==2.2.0
+human-curl==0.1.9
+multiprocessing==2.6.2.1
+pycurl2==7.20.0
